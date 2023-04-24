@@ -31,7 +31,7 @@ Let’s go over a few of these functions: <span id='function-names-knowledge-che
 The most powerful use cases for calc include:
 
 - Mixing units
-- The ability to nest `calc( calc () - calc () )`
+- The ability to nest `calc( calc () - calc () )` 
 
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="OJxNxya" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/OJxNxya">
